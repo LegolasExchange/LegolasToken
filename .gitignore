@@ -3,3 +3,4 @@ build
 node_modules
 deployment/
 lastNonce.txt
+truffle.js
