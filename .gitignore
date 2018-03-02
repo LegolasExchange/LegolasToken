@@ -1,0 +1,5 @@
+build
+!build/contracts
+node_modules
+deployment/
+lastNonce.txt
