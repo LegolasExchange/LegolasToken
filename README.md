@@ -15,7 +15,7 @@ Advisors: progressively released during 1 year, 1/12 per month.
 
 ### LGO 2-Year Holding Bonus
 
-Every 6 months during 2 years (4 times), 5% of additional LGO Tokens will be distributed, proportionally, only to the Users whose LGO Tokens bought in the pre-sale will never have been moved from their initial address.
+Every 6 months during 2 years (4 times), 5% of additional LGO Tokens will be distributed, proportionally, to the LGO Holders whose tokens were issued in the ICO and that have not moved their tokens (including already received bonus tokens) from the initial address.
 
 ## Test coverage
 
